@@ -1,0 +1,4 @@
+gffutils
+pandas
+matplotlib
+nbdime
